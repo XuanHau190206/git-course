@@ -6,5 +6,3 @@ create an avatar for user
 login and logout
 
 change 3
-
-adu anh sang
